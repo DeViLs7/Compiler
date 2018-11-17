@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1542487144 source:c:\users\anonymous\desktop\compiler 2\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
